@@ -23,7 +23,7 @@ lab7-https://github.com/ayush08-12/kush/blob/c7f04b6cafb8fece0058f4d565b69569da1
 
 lab8-https://github.com/ayush08-12/kush/blob/c7f04b6cafb8fece0058f4d565b69569da1355ab/8.java
 
-lab9-https://github.com/ayush08-12/kush/blob/c7f04b6cafb8fece0058f4d565b69569da1355ab/9.java
+lab9-https://github.com/ayush08-12/kush/blob/f838bfa186c7b27ea1a87b7fa8ff96ba639167b7/prims
 
 lab10a-https://github.com/ayush08-12/kush/blob/59fccd74e4e6bf196b8c2e973f6db0fbf3b123f7/10a.java
 
